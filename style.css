@@ -1,0 +1,45 @@
+body  { 
+     width: 500px;
+    margin: auto; 
+    background-image: url(img/sfondo.png); 
+    background-repeat: repeat-y;
+    background-position: center;
+}
+h2 { color: white;
+text-align:center;
+padding-top: 30px;}
+
+
+ .first {width: 200px;
+box-shadow: 5px:5px;
+padding: 70px;
+margin: auto ;
+background-color: rgb(5, 158, 158);
+}
+
+#logo { width: 250px;
+         height: 200 px;
+         margin:auto;
+         padding-bottom: 70 px;
+    
+}
+ol { color: white;
+    text-align: center;
+padding-top: 70px;}
+
+li {
+    padding: 5px;
+}
+
+.second {width: 350px;;
+    margin: auto;
+    border: solid black;
+    background-color: white;
+}
+h1 {text-align: center;
+    font-size: 2em;
+    padding-bottom: 50 px;
+}
+header {padding-top: 50px;
+padding-bottom: 50 px;
+}

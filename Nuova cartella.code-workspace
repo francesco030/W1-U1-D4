@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../EPICODE/U1-W1-L2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Nuova cartella"
+	}
+}
